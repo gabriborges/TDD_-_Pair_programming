@@ -1,6 +1,6 @@
 # Oficina de TDD e Pair Programming 🚀 
 
-![image](https://media2.giphy.com/media/D567hs4Dex0GEnAKOY/giphy.gif)
+
 <aside>
 ⚠️ Este repositório é um template feito com alguns exercícios para treinar TDD com NodeJS e Jest.
 </aside>
@@ -69,7 +69,6 @@ ___Fonte do guia para usar templates do github: FAQ Desafio Rocketseat___
 
 _Vai ser incrível compartilhar essa jornada com você! Qualquer dúvida ou sugestão, chama no contatinho!_
 
- <img src="https://media.giphy.com/media/efhcZv18NpQDyRsaYa/giphy.gif" alt="Gif Yeah" width="200"> 
 
 # Simara Conceição
 ✓	Desenvolvedora na Thoughtworks
